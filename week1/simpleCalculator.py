@@ -7,6 +7,7 @@ def multiply(a,b):
 def division(a,b):
     if b==0:
         print("Error! Cannot divide by Zero")
+        return "Error"
     return a/b
 
 def getInput(prompt):
@@ -51,3 +52,4 @@ def calculator():
 if __name__ == "__main__":
 
     calculator()
+
