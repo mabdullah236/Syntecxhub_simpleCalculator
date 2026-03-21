@@ -65,4 +65,3 @@ python main.py --export csv
 - Handles **Network Timeouts** if internet is disconnected.
 - Prevents **Database Corruption** using proper connection management.
 - Skips **Duplicate Entries** using SQL UNIQUE constraints.
-```
