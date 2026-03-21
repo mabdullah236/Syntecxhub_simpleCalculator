@@ -1,3 +1,4 @@
-- A python calculator with error handling.                                                                                                                         A number guessing game with error handling.
+- A python calculator with error handling.
+- A number guessing game with error handling.
 - A robust Python CLI tool designed to automate the process of converting CSV files into formatted Excel workbooks.
 - A professional Python-based Command Line Interface (CLI) tool to fetch, filter, and export news headlines.
