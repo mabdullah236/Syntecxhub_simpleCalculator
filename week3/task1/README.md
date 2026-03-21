@@ -1,8 +1,8 @@
 ```markdown
 # CSV to Excel Converter & Data Cleaner
 
-A robust Python CLI tool designed to automate the process of converting CSV files into formatted Excel workbooks. This tool includes built-in data cleaning
-logic and column mapping specifically for industry dataset processing.
+A robust Python CLI tool designed to automate the process of converting CSV files into formatted Excel workbooks. This tool
+includes built-in data cleaning logic and column mapping specifically for industry dataset processing.
 
 # Features
 - **Automated Conversion:** Converts large CSV files to `.xlsx` format seamlessly.
